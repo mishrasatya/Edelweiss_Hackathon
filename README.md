@@ -9,18 +9,5 @@ Given the availability of various alternatives across the industry customer has 
 
 NBFCs have started taking pro-active measures to ensure this is curbed; and this is where you come in! Objective is primarily to arrive at a propensity to foreclose and balance transfer an existing loan based on lead indicators such as demographics, internal behavior and performance on all credit lines; along with the estimated ‘Time to Foreclose’.
 
---------------------------------------------
-Sample Submission
-AGREEMENTID,FORECLOSURE
-11220003,0.2811689825798027
-11220004,0.6268055091950818
-11220005,0.4345248299744987
-11220007,0.23242142806048816
-11220009,0.5545069714079363
-11220013,0.55520605711331
-11220015,0.02583053907556343
-11220018,0.789553003985363
-11220019,0.6224207837024617
---------------------------------------------
 Evaluation Metrics
 The submissions will be evaluated on Area Under the ROC curve (AUCROC) metrics.

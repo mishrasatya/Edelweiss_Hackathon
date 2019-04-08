@@ -1,6 +1,3 @@
-# Setting up the directory
-setwd("C:/Users/mishrsat/Desktop/Automation/codes/Edelweiss_Hackathon_Machine_Learning/Dataset")
-
 # Calling the required Libraries
 library(dplyr)
 library(stringr)
